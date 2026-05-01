@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisha Maryam Habib</h1>
-<h3 align="center">Software Engineering Student @ SMME/SEECS NUST Islamabad</h3>
+<h3 align="center">Software Engineering Student @ SEECS NUST Islamabad</h3>
 
 <p align="center">
 🎓 Undergraduate Student | BE Software Engineering <br>

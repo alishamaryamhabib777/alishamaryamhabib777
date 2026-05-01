@@ -37,7 +37,7 @@ Hi, I'm **Alisha** — a passionate software engineering student at **SEECS, NUS
 - 💡 Currently exploring **OOP, Logic Design & Discrete Maths**
 - 🌱 Learning to build **robust, real-world software systems**
 - 🤝 Open to **research internships & collaborative projects**
-- 📬 Reach me: **ahabib.bese25seecs@student.nust.edu.pk**
+- 📬 Reach me: **ahabib.bese25seecs@seecs.edu.pk**
 
 <br clear="right"/>
 
@@ -176,7 +176,7 @@ An LED-based traffic light circuit demonstrating electrical principles, timing l
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alishamaryamhabib)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://alishamaryamhabib777.github.io/alishadev.github.io/#)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahabib.bese25seecs@student.nust.edu.pk)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahabib.bese25seecs@seecs.edu.pk)
 [![NUST SEECS](https://img.shields.io/badge/SEECS%20NUST-006400?style=for-the-badge&logoColor=white)](https://seecs.nust.edu.pk)
 
 </div>

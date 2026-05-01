@@ -37,7 +37,7 @@ Hi, I'm **Alisha** — a passionate software engineering student at **SEECS, NUS
 - 💡 Currently exploring **OOP, Logic Design & Discrete Maths**
 - 🌱 Learning to build **robust, real-world software systems**
 - 🤝 Open to **research internships & collaborative projects**
-- 📬 Reach me: **ahabib.bese25seecs@seecs.edu.pk**
+- 📬 Reach me: **alishamaryamhabib7@gmail.com**
 
 <br clear="right"/>
 

@@ -17,7 +17,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Batch-2025-7c3aed?style=flat-square&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Sophomore-%23a78bfa?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Freshie-%23a78bfa?style=flat-square"/>
 
 </div>
 

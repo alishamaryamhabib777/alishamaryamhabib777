@@ -1,100 +1,108 @@
 <h1 align="center">Hi 👋, I'm Alisha Maryam Habib</h1>
-<h3 align="center">Software Engineering Student @ SEECS NUST Islamabad</h3>
+
+<h3 align="center">💻 Software Engineering Student | SEECS NUST Islamabad</h3>
 
 <p align="center">
-🎓 Undergraduate Student | BE Software Engineering <br>
-💻 Passionate about Programming, Problem Solving & Software Development <br>
-🚀 Building Projects in Java, C++, OOP & GUI Development
+🌸 Passionate about Tech • Code • Innovation <br>
+🚀 Building projects in Java, C++, GUI & OOP <br>
+📚 Learning and growing every day
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Student+at+NUST;Future+Developer+%26+Tech+Innovator;Java+%7C+C%2B%2B+%7C+Problem+Solver" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 Studying **Bachelor of Engineering in Software Engineering**
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 Bachelor of Engineering in **Software Engineering**
 - 🏫 Student at **SEECS, NUST Islamabad**
 - 📚 Currently in **2nd Semester**
 - 📈 First Semester CGPA: **3.53**
-- 🥇 Received **Chief of Air Staff Gold Medal**
-- 🌱 Currently learning:
-  - Object Oriented Programming (Java)
-  - Computer Architecture & Logic Design
+- 🥇 Chief of Air Staff Gold Medalist
+- 🌱 Currently Exploring:
+  - Java OOP
+  - GUI Development
+  - CALD
   - Discrete Mathematics
   - Linear Algebra
-  - Differential Equations
 
 ---
 
-## 🏆 Academic Achievements
+## 🏆 Achievements
 
-- 📘 Matric: **1052/1100 (A+)**
-- 🏅 Chief of Air Staff Gold Medal
-- 📗 FSC: **1025/1100 (A+)**
-- 🎯 NUST Entry Test (NET): **152 Marks**
-
----
-
-## 💻 Technical Skills
-
-### Languages
-`Java` `C++` `HTML` `CSS`
-
-### Concepts
-`OOP` `GUI` `File Handling` `DSA` `Pointers` `Sorting`
-
-### Tools
-`GitHub` `VS Code` `NetBeans` `IntelliJ`
+🏅 Matric: **1052/1100 (A+)**  
+🏅 FSC: **1025/1100 (A+)**  
+🏅 NET Score: **152**  
+🏅 Chief of Air Staff Gold Medal
 
 ---
 
-## 🚀 Projects
+## 💻 Tech Stack
 
-### 🌍 Tourist Management System (C++)
+<p align="center">
 
-Console Based Application with:
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,github,vscode" />
 
-- Sign Up / Login
-- Distance Calculation (Haversine Formula)
-- Hotel Booking
-- Transport Management
-- Billing System
+</p>
 
-Used:
-`Vectors` `Enums` `Structs` `Classes` `Pointers` `Arrays` `Bubble Sort`
+---
+
+## 🚀 Featured Projects
+
+### 🌍 Tourist Management System
+Console based C++ application featuring:
+
+✔ Login / Signup  
+✔ Hotel Booking  
+✔ Billing  
+✔ Transport Management  
+✔ Haversine Distance Formula  
 
 ---
 
 ### 🎮 Gaming Hub (Java GUI)
 
-A multi-game desktop application using Java GUI and OOP.
+🎯 Multi-game desktop app with:
 
-Features:
-
-- Main Menu Game Selection
-- Interactive GUI
-- Single / Multiplayer Modes
-- Modular Reusable Design
+✔ Interactive GUI  
+✔ Multiple Games  
+✔ OOP Principles  
+✔ Single & Multiplayer Modes  
 
 ---
 
-### 🎲 Digital Dice (CALD Project)
+### 🎲 Digital Dice
 
-Hardware-based digital dice using ICs and digital logic concepts.
+Hardware digital dice using:
+
+✔ ICs  
+✔ Logic Gates  
+✔ CALD Concepts  
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Connect With Me
 
-🔗 https://alishamaryamhabib777.github.io/alishadev.github.io/
-
-## 📫 Connect With Me
-
-- 📧 ahabib.bese25seecs@student.nust.edu.pk
-- 💼 LinkedIn: www.linkedin.com/in/alishamaryamhabib
-- 🌍 Islamabad, Pakistan
+<p align="center">
+<a href="https://linkedin.com/in/alishamaryamhabib"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:ahabib.bese25seecs@student.nust.edu.pk"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://alishamaryamhabib777.github.io/alishadev.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome"></a>
+</p>
 
 ---
 
 ## ✨ Quote
 
-> "Consistency, discipline and curiosity create great engineers."
+<p align="center">
+<i>"Consistency, discipline, and curiosity create great engineers."</i>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>

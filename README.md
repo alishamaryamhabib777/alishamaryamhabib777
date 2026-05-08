@@ -8,21 +8,6 @@
 
 <br/><br/>
 
-<!-- Badges Row -->
-<img src="https://komarev.com/ghpvc/?username=alishamaryamhabib777&label=Profile+Views&color=7c3aed&style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CGPA-3.53-a78bfa?style=flat-square&logo=academia&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/NET%20Score-152-6d28d9?style=flat-square&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Batch-2025-7c3aed?style=flat-square&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Freshie-%23a78bfa?style=flat-square"/>
-
-</div>
-
-<br/>
-
 ---
 
 ## 👩‍💻 About Me

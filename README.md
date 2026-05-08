@@ -1,10 +1,3 @@
-<div align="center">
-  
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:a78bfa&height=100&section=header&text=Alisha%20Maryam%20Habib&fontSize=20&fontColor=ffffff&fontAlignY=30" />
-
----
-
 ## 👩‍💻 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>

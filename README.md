@@ -1,3 +1,4 @@
+<div align="center">
 ## 👩‍💻 About Me
 
 <img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -12,7 +13,7 @@ Hi, I'm **Alisha** — a passionate software engineering student at **SEECS, NUS
 <br clear="right"/>
 
 ---
-
+<div align="center">
 ## 🛠️ Tech Stack
 
 <div align="center">

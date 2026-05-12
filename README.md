@@ -1,7 +1,5 @@
 ## About Me
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 I'm **Alisha** — a passionate software engineering student at **SEECS, NUST**, driven by curiosity and a love for building things that work.
 
 - **BE Software Engineering** — SEECS, NUST (Batch 2025)

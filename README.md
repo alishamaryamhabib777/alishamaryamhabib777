@@ -1,19 +1,19 @@
-## 👩‍💻 About Me
+## About Me
 
 <img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Hi, I'm **Alisha** — a passionate software engineering student at **SEECS, NUST**, driven by curiosity and a love for building things that work.
+I'm **Alisha** — a passionate software engineering student at **SEECS, NUST**, driven by curiosity and a love for building things that work.
 
-- 🎓 **BE Software Engineering** — SEECS, NUST (Batch 2025)
-- 📍 Based in **Islamabad, Pakistan**
-- 🤝 Open to **research internships & collaborative projects**
-- 📬 Reach me: **alishamaryamhabib7@gmail.com**
+- **BE Software Engineering** — SEECS, NUST (Batch 2025)
+- Based in **Islamabad, Pakistan**
+- Open to **research internships & collaborative projects**
+- Reach me: **alishamaryamhabib7@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 

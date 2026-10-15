@@ -4,7 +4,7 @@
 
 I build practical projects across **AI and machine learning, web development, and software engineering**. I enjoy turning ideas into useful tools and learning by shipping end-to-end projects.
 
-[Portfolio](https://alishamaryamhabib777.github.io) · [Email](mailto:alishamaryamhabib7@gmail.com) · [LinkedIn](https://www.linkedin.com/) 
+[Portfolio](https://alishamaryamhabib777.github.io) · [Email](mailto:alishamaryamhabib7@gmail.com)
 
 ## Featured work
 

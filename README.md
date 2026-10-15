@@ -7,7 +7,7 @@
 **SEECS, NUST · Islamabad, Pakistan**
 
 [![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-cb8d42?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishamaryamhabib7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-EXPLORE-172b4d?style=for-the-badge&logo=githubpages&logoColor=white)](https://alishamaryamhabib777.github.io)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-EXPLORE-172b4d?style=for-the-badge&logo=githubpages&logoColor=white)](https://alishamaryamhabib777.github.io/alishadev.github.io/)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alishamaryamhabib777)
 
 </div>

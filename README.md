@@ -1,37 +1,105 @@
-# Hi, I'm Alisha 👋
+<div align="center">
 
-**Software Engineering student at SEECS, NUST · Islamabad, Pakistan**
+# ✨ Alisha Maryam Habib
 
-I build practical projects across **AI and machine learning, web development, and software engineering**. I enjoy turning ideas into useful tools and learning by shipping end-to-end projects.
+### Software Engineering · AI & Machine Learning · Web Development
 
-[Portfolio](https://alishamaryamhabib777.github.io) · [Email](mailto:alishamaryamhabib7@gmail.com)
+**SEECS, NUST · Islamabad, Pakistan**
 
-## Featured work
+[![Email](https://img.shields.io/badge/EMAIL-SAY_HELLO-cb8d42?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alishamaryamhabib7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-EXPLORE-172b4d?style=for-the-badge&logo=githubpages&logoColor=white)](https://alishamaryamhabib777.github.io)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alishamaryamhabib777)
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [Munsif.AI](https://github.com/alishamaryamhabib777/munsif-ai) · [Live app](https://munsifai.vercel.app/) | AI-assisted legal information and petition drafting for Pakistan, with English and Roman Urdu support. | React, TypeScript, Tailwind CSS, Gemini API |
-| [Applied Machine Learning](https://github.com/alishamaryamhabib777/AppliedMachineLearning) | Internship work covering regression, feature selection, recommendation systems, and text classification. | Python, pandas, scikit-learn, NLTK |
-| [Tourist Management System](https://github.com/alishamaryamhabib777/TouristManagementSystem) | C++ trip-planning app with destination distances, hotel and transport bookings, and file-based booking history. | C++, STL, file I/O |
-| [Digital Dice](https://github.com/alishamaryamhabib777/Digital-Dice) | Six-sided digital dice circuit designed and simulated without a microcontroller. | Digital logic, Proteus |
-
-## Tools I use
-
-**Languages:** C++, Python, Java, JavaScript, TypeScript, HTML/CSS  
-**Web:** React, Vite, Tailwind CSS  
-**Data & AI:** pandas, scikit-learn, NLTK, Gemini API  
-**Tools:** Git, GitHub, VS Code, IntelliJ IDEA
-
-## Currently
-
-- Studying for a **BE in Software Engineering** at **SEECS, NUST** (Batch 2025)
-- Exploring applied machine learning and AI-powered products
-- Open to research internships and collaborative projects
-
-## Get in touch
-
-📧 [alishamaryamhabib7@gmail.com](mailto:alishamaryamhabib7@gmail.com) · 🌐 [alishamaryamhabib777.github.io](https://alishamaryamhabib777.github.io)
+</div>
 
 ---
 
-<sub>Thanks for stopping by — feel free to explore my repositories.</sub>
+> I’m a Software Engineering student who enjoys building thoughtful, useful products—from AI-powered experiences to hands-on software projects. I learn by experimenting, collaborating, and turning ideas into things people can try.
+
+## ✦ Featured work
+
+*Open each project for more.*
+
+<details>
+<summary><strong>01 · Raqam</strong> &nbsp; <sub>Featured project</sub></summary>
+
+<br>
+
+**Raqam**
+
+</details>
+
+<details>
+<summary><strong>02 · Rawaan</strong> &nbsp; <sub>Featured project</sub></summary>
+
+<br>
+
+**Rawaan**
+
+</details>
+
+<details>
+<summary><strong>03 · Munsif.AI</strong> &nbsp; <sub>AI · Legal technology</sub></summary>
+
+<br>
+
+A Pakistan-focused legal information and petition-drafting experience. The app helps people describe a concern, explore relevant legal information, and prepare a first draft—with English and Roman Urdu support.
+
+**Built with:** React · TypeScript · Tailwind CSS · Gemini API
+
+[↗ View repository](https://github.com/alishamaryamhabib777/munsif-ai) &nbsp; · &nbsp; [↗ Try the live app](https://munsifai.vercel.app/)
+
+</details>
+
+<details>
+<summary><strong>04 · Gaming Hub</strong> &nbsp; <sub>Java · Desktop app</sub></summary>
+
+<br>
+
+A Java desktop game hub that brings multiple classic games together in one graphical application.
+
+**Built with:** Java · Swing · Object-oriented design
+
+[↗ View repository](https://github.com/faraz-pk/Gaming-Hub)
+
+</details>
+
+## ◈ What I work with
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-1d4e89?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-b85b24?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f766e?style=flat-square&logo=tailwindcss&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f89939?style=flat-square&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+**Also exploring:** pandas · NLTK · Gemini API · data structures · object-oriented design
+
+## ✧ A little about me
+
+- 🎓 Studying **BE Software Engineering** at **SEECS, NUST** (Batch 2025)
+- 🧠 Interested in applied machine learning and AI-powered products
+- 🤝 Open to research internships and collaborative projects
+- 📍 Based in Islamabad, Pakistan
+
+## Say hello
+
+<div align="center">
+
+### Have a project in mind or want to collaborate?
+
+**[alishamaryamhabib7@gmail.com](mailto:alishamaryamhabib7@gmail.com)**
+
+</div>
+
+---
+
+<div align="center">
+<sub>Thanks for visiting — explore a project, open its details, and say hello anytime.</sub>
+</div>

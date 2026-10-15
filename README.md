@@ -23,18 +23,22 @@
 <details>
 <summary><strong>01 · Raqam</strong> &nbsp; <sub>Featured project</sub></summary>
 
-<br>
+AI bookkeeping for small businesses, with receipt OCR, transaction review, and category suggestions.
 
-**Raqam**
+**Finance · AI workflows · OCR**
+
+[↗ Repository](https://github.com/AmazingDude/raqam) · [↗ Live demo](https://raqam-alpha.vercel.app/)
 
 </details>
 
 <details>
 <summary><strong>02 · Rawaan</strong> &nbsp; <sub>Featured project</sub></summary>
 
-<br>
+A healthcare workspace for session recording, reviewed clinical notes, client records, and a conversational assistant for doctors and therapists.
 
-**Rawaan**
+**Healthcare · Clinical workflows · AI**
+
+[↗ Repository](https://github.com/AmazingDude/rawaan) · [↗ Live demo](https://rawaaan.vercel.app/)
 
 </details>
 
